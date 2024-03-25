@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akrishnima Sajil
 - 👀 I’m interested in coding and development 
-- 🌱 I’m currently learning full stack development in Django and final year Btech CSE student.
+- 🌱 I have completed my BTech degree and looking for an fresher/entry-level jobs or internships.
 
 <!--
 akrishnima/akrishnima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
